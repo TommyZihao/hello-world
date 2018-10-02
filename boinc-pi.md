@@ -7,7 +7,7 @@
 > - 二十年前本项目精巧的分布式计算、数据分发与回收、积分奖励系统，正是近几年火热的区块链和数字货币系统的萌芽。向本项目的所有贡献者致敬。
 > - 我为了写本文，准备了八年时间。
 > - 作者：同济大学开源软件协会 [子豪兄Tommy](https://github.com/TommyZihao)  微信公众号：子豪兄的科研小屋
-
+[使用Markdown语法增加的跳转到“前言”的链接](#前言) 
 ![](https://upload-images.jianshu.io/upload_images/13714448-47bffce99a5f5fb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 伯克利开放式网络计算平台BOINC和SETI@home项目
@@ -49,4 +49,4 @@ vcgencmd measure_temp
 > [BOINC官方主页](https://boinc.berkeley.edu/)
 
 <span id="jump">Hello World</span>
-
+# 前言
