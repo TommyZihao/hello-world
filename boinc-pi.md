@@ -8,13 +8,13 @@
 > - 我为了写本文，准备了八年时间。[2010年我在百度SETI贴吧发的贴子](http://tieba.baidu.com/p/706224156?pid=7368051602&cid=0#7368051602)
 > - 作者：同济大学开源软件协会 [子豪兄Tommy](https://github.com/TommyZihao)  微信公众号：子豪兄的科研小屋
 
-![](https://upload-images.jianshu.io/upload_images/13714448-47bffce99a5f5fb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/13714448-1202c4b7374369ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## SETI@home项目和伯克利开放式网络计算平台BOINC
 
 - **SETI@home**是1999年加州大学伯克利分校发起的分布式计算项目，旨在充分利用全球计算机的闲置算力，分析阿雷西博射电望远镜搜集的宇宙射线数据，从不同频段识别可能的文明信号，搜寻地外文明。
 - 经过近20年的运营，SETI@home是迄今为止最成功的分布式计算项目，虽然没能找到地外文明的直接证据，但吸引全球志愿者贡献了巨量的算力，算力超过了任何已知的超算电脑，证明了分布式计算系统的强大。
-- 伯克利在此基础上开发了BOINC**伯克利开放式网络计算平台**(Berkeley Open Infrastructure for Network Computing)，部署了涉及生物医学、天体物理、密码破译、数学证明等众多领域的科研项目（[点我](#BOINC平台上其它有趣的各领域分布式计算项目)看这些有趣的项目）,其中还包括了中科院的计算项目。
+- 伯克利在此基础上开发了BOINC**伯克利开放式网络计算平台**(Berkeley Open Infrastructure for Network Computing)，部署了涉及生物医学、天体物理、密码破译、数学证明等众多领域的[科研项目（点我看这些有趣的项目）](#BOINC平台上其它有趣的各领域分布式计算项目),其中还包括了中科院的计算项目。
 
 ## 在树莓派上安装BOINC客户端
 
@@ -36,7 +36,7 @@ vcgencmd measure_temp
 
 
 
-
+# BOINC平台上其它有趣的各领域分布式计算项目
 
 ## 参考文献
 
