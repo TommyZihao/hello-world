@@ -1,5 +1,5 @@
 # 用树莓派搜寻地外文明
-[点击跳转](#mycode)
+
 > 子豪兄开篇语：
 >
 > - 本文介绍了如何用树莓派微型电脑参与世界上最大的分布式计算平台BOINC的科学计算项目，特别是其中最著名的搜寻地外文明SETI@home项目。并介绍了其它有趣的分布式科学计算项目。
@@ -8,12 +8,7 @@
 > - 我为了写本文，准备了八年时间。
 > - 作者：同济大学开源软件协会 [子豪兄Tommy](https://github.com/TommyZihao)  微信公众号：子豪兄的科研小屋
 
-<center class="half">
-<img src="https://upload-images.jianshu.io/upload_images/13714448-c7362b1397817839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="300"/>
-<img src="https://upload-images.jianshu.io/upload_images/13714448-5e943f9f31b920f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="300"/>
-</center>
-
-![SETI@home信号分析屏幕保护](https://upload-images.jianshu.io/upload_images/13714448-367d4d9b7f174f1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/13714448-47bffce99a5f5fb5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 伯克利开放式网络计算平台BOINC和SETI@home项目
 
@@ -21,7 +16,7 @@
 - 经过近20年的运营，SETI@home是迄今为止最成功的分布式计算项目，虽然没能找到地外文明的直接证据，但任何连网的电脑都可无条件加入，吸引全球志愿者贡献了巨量的算力，算力超过了任何超算电脑。
 - 伯克利在此基础上开发了BOINC分布式计算平台(Berkeley Open Infrastructure for Network Computing)，部署了涉及生物医学、天体物理、密码破译、数学证明等众多领域的[科研项目（点我看这些有趣的项目）](http://boinc.berkeley.edu/projects.php)，
 - - [科研项目](#1)其中还包括了中科院的计算项目。
-- [点击跳转](#jump)
+- [跳到一个锚](#jump)
 
 ## 在树莓派上安装BOINC客户端
 
@@ -43,7 +38,7 @@ vcgencmd measure_temp
 
 
 
-好的<span id="jump">跳转到的地方</span>
+<span id="jump">跳转到的地方</span>
 
 ## 参考文献
 
@@ -52,6 +47,6 @@ vcgencmd measure_temp
 > [维基百科：SETI@home](https://zh.wikipedia.org/wiki/SETI@home)
 >
 > [BOINC官方主页](https://boinc.berkeley.edu/)
-<span id="mycode">跳转到的地方</span>
 
+<span id="jump">Hello World</span>
 
